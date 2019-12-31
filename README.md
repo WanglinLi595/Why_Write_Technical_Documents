@@ -15,7 +15,7 @@
  * @最后编辑时间: 2019.12.30
  -->
 
-![version](https://img.shields.io/badge/version-v__1__0-orange) [![licese](https://img.shields.io/badge/license-MIT-green)](https://github.com/WanglinLi595/version-control/blob/master/LICENSE)
+![version](https://img.shields.io/badge/version-v__1__1-orange) [![licese](https://img.shields.io/badge/license-MIT-green)](https://github.com/WanglinLi595/version-control/blob/master/LICENSE)
 
 # 为什么要写文档
 
